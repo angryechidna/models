@@ -1,0 +1,33 @@
+newmtl blinn1SG
+illum 4
+Kd 0.92 0.56 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl duke
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd duke.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl jetpack
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd jetpack.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl rpg
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rpg.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
